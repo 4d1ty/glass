@@ -7,7 +7,7 @@ A simple multiplayer game.
 1. Clone the repository:
    ```bash
    git clone https://github.com/4d1ty/glass.git
-    cd glass
+   cd glass
    ```
 
 2. Install dependencies:
@@ -22,7 +22,7 @@ A simple multiplayer game.
    SECRET_KEY=[YOUR SECRET KEY]
    ```
    **TIP:** generate a secret key using Python:
-   
+
    ```
    python -c 'import secrets; print(secrets.token_hex())'
    ```
